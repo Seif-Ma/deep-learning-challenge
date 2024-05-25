@@ -32,7 +32,7 @@ From Alphabet Soup’s business team, I have received a [CSV](https://static.bc-
 
 #### Compiling, Training, and Evaluating the Model
 
-In the "Starter_Code" 
+In the "Starter_Code", I used 2 hidden layers, with 80 neurons in the first, and 30 in the second :
 
 
 ![Screenshot 2024-05-25 005855](https://github.com/Seif-Ma/deep-learning-challenge/assets/152819459/55cfba01-62d0-4284-b196-4cf4f914e7a1)
