@@ -11,7 +11,7 @@ From Alphabet Soup’s business team, I have received a [CSV](https://static.bc-
 ![Screenshot 2024-05-24 234551](https://github.com/Seif-Ma/deep-learning-challenge/assets/152819459/86c1d3a9-d61f-428b-881b-7abe8e0dfa1b)
 
 * The target variable for this model is the `IT_SUCCESSFUL` column, which indicate if the money was used effectively or not.
-* The futures variables for the moedel include the following columns:
+* The features variables for the moedel include the following columns:
     *  `NAME` — Identification column
     *  `APPLICATION_TYPE` — Alphabet Soup application type
     *  `AFFILIATION` — Affiliated sector of industry
@@ -68,4 +68,4 @@ In the "Starter_Code", I used 2 hidden layers, with 80 neurons in the first, and
 ![Screenshot 2024-05-25 011359](https://github.com/Seif-Ma/deep-learning-challenge/assets/152819459/579fec4b-af4a-4290-a95a-a627d049e6e1)
 
 ## Summary
-
+Overall, the neural network model achived 77.35% accuracy, which is better than the 75% that was required. Using different feature variables, and hyperparameters, may lead to a better result.
